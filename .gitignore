@@ -10,6 +10,8 @@
 .svn/
 .vs/
 .ios/
+ios/
+android/
 .android/
 migrate_working_dir/
 
