@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+# Uncomment this line if you don't want to include VS Code settings in version control
+#.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Android Studio build artifacts
+android/.gradle/
+android/app/build/
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS/Pods build artifacts
+ios/Pods/
+
+# Windows, macOS, Linux build directories
+windows/
+macos/
+linux/
+
+# Web build directory
+web/
+
+# Symbolication and Obfuscation related
+app.*.symbols
+app.*.map.json
+
+# Package files
+*.lock
+
+# Generated APKs and IPAs
+*.apk
+*.ipa
+
+# Environment and sensitive files
+.env
+*.key
+*.json
+
+# System files
+Thumbs.db
+
+# Symbolic links
+.svn/
